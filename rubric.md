@@ -19,6 +19,8 @@ This project will be evaluated as follows:
 |  3  | Proficient | All sections are complete, and, if using the provided null hypothesis, arrive at the correct conclusion. | Code is clear and easy to follow, all code is commented and steps taken are communicated. Follow up questions are clearly answered. |
 |  4  | Advanced | Additional data explorations or visualizations have been provided, or a unique null hypothesis was created and evaluated. | All code is clear, commented, and explained. Additional visualization or statistical resources have been utilized. |
 
+You must get an average score of 3 to pass this project.
+
 ### Setup
 
 Make a copy of [this](https://colab.research.google.com/drive/134CRdybHRbKZp6uJDr62ff-dC2isW5HW?usp=sharing) notebook and follow the steps to complete the challenges!
