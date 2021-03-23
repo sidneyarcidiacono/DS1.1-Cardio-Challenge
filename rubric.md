@@ -14,9 +14,9 @@ This project will be evaluated as follows:
 
 | Score | Rating   |        Correctness        |     Code Quality   |
 | :------------- | :------------- | :------------- | :------------- |
-|  1  | Needs Improvement | Required sections of submission are largely missing or not functional | Code is messy and hard to follow. Code includes TODOs or does not include comments with explanations of steps taken. |
-|  2  | Basic | Most sections are complete, some may be missing, or not fully complete. | Some sections have code that is messy and hard to follow, or is not properly commented to demonstrate understanding.  |
-|  3  | Proficient | All sections are complete and if using the provided null hypothesis, arrive at the correct conclusion. | Code is clear and easy to follow, all code is commented and steps taken are communicated. |
+|  1  | Needs Improvement | Required sections of submission are largely missing or not functional | Code is messy and hard to follow. Code includes TODOs or does not include comments explaining which exploratory or visualization steps were taken and why. Some follow up questions may not be answered completely. |
+|  2  | Basic | Most sections are complete, some may be missing, or not fully complete. | Some sections have code that is messy and hard to follow, or is not properly commented to demonstrate understanding. Follow up questions may not be clearly answered. |
+|  3  | Proficient | All sections are complete, and, if using the provided null hypothesis, arrive at the correct conclusion. | Code is clear and easy to follow, all code is commented and steps taken are communicated. Follow up questions are clearly answered. |
 |  4  | Advanced | Additional data explorations or visualizations have been provided, or a unique null hypothesis was created and evaluated. | All code is clear, commented, and explained. Additional visualization or statistical resources have been utilized. |
 
 ### Setup
