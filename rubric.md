@@ -2,7 +2,7 @@
 
 ### Purpose (Why should I do this?)
 
-This project empowers you to use a new and possibly never-before-seen dataset to explore and then finally test a hypothesis for a real-world use case.
+This project empowers you to use a new and possibly never-before-seen dataset to go step-by-step through performing data exploration, cleaning, visualizations, and hypothesis testing for a real-world use case.
 
 All of the materials you need to complete the steps are in your lessons. Some good references:
 
